@@ -55,3 +55,4 @@ const popUpConfig = {
 maxedUpgrades = []; 
 
 let keySPACE, keyC, keyH, keyESC, keyP;
+let keyW, keyA, keyS, keyD, keyR
